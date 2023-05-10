@@ -1,3 +1,6 @@
 pandas
 jupyterlab
 requests
+scikit-learn
+matplotlib
+geopandas
